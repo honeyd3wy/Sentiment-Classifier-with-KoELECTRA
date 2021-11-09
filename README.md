@@ -1,5 +1,5 @@
 # 💖🤗 Sentiment Classifier (with KoELECTRA)
-> _"Did you like this game? or not?"_ Steam 리뷰 텍스트를 분류하고 분석합니다.
+> _"Did you like this game? or not?"_ Steam의 게임 리뷰 텍스트를 분류하고 분석합니다.
 
 - pre-trained model : `KoELECTRA-Base-v3`
 
