@@ -7,6 +7,8 @@
 
 - fine-tuning dataset : 감성 분석용 말뭉치의 `Steam 한국어 리뷰`
 
+- download model : [`model.pt`](https://docs.google.com/uc?export=download&id=1oJK7P5Jo1_RyTWb4Nd9nJ2vLRSeCl0D1) (430MB)
+
 ## Reference
 - [huggingface/transformers](https://github.com/huggingface/transformers)
 - [monologg/KoELECTRA](https://github.com/monologg/KoELECTRA)
