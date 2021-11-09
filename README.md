@@ -5,7 +5,7 @@
 
   ![Untitled - 2021-11-09T215806 111](https://user-images.githubusercontent.com/86245237/140928677-02b90d70-ea82-4b1c-8fc0-6beebf9b4871.png)
 
-- fine-tuning dataset : Steam의 한국어 리뷰
+- fine-tuning dataset : 감성 분석용 말뭉치의 `Steam 한국어 리뷰`
 
 ## Reference
 - [huggingface/transformers](https://github.com/huggingface/transformers)
