@@ -15,22 +15,22 @@
 
 ## How To Use?
 
-> ⚠️ bash terminal, Visual Studio Code 기준입니다. Conda 가상환경을 만들어서 실행하시는 것을 권장합니다.
+> ⚠️ 터미널은 bash, 실행 프로그램은 Visual Studio Code 기준입니다. Conda 가상 환경을 만들어서 실행하시는 것을 권장합니다.
 
-1. `$git clone https://github.com/honeyd3wy/Sentiment-Classifier-with-KoELECTRA.git`으로 repository 다운로드
+1. `$ git clone https://github.com/honeyd3wy/Sentiment-Classifier-with-KoELECTRA.git`으로 repository 다운로드
 
-2. `$cd Sentiment-Classifier-with-KoELECTRA/`로 경로 이동
+2. `$ cd Sentiment-Classifier-with-KoELECTRA/`로 경로 이동
 
-3. `$pip install -r requirements.txt`로 모듈 설치
+3. `$ pip install -r requirements.txt`로 라이브러리 설치
 
-4. `model.pt`를 다운로드
+4. 위에서 `model.pt`를 다운로드
 
 5. 다운받은 모델 파일을 clone한 경로로 옮기기
 
 6. `use_classifier_for_local.ipynb` 파일 실행 후 사용하시면 됩니다!
 
     - 긍정 텍스트는 `LABEL_1`, 부정 텍스트는 `LABEL_0`으로 분류
-    - 'score'는 해당 class로 분류될 
+    - 'score'는 해당 class로 분류될 확률
 
 
 
