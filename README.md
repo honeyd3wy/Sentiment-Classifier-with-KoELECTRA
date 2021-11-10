@@ -15,7 +15,7 @@
 
 ## How To Use?
 
-> ⚠️ 가상환경에서 실행하는 것을 권장합니다!
+> ⚠️ bash terminal, Visual Studio Code 기준입니다. Conda 가상환경을 만들어서 실행하시는 것을 권장합니다.
 
 1. `$git clone https://github.com/honeyd3wy/Sentiment-Classifier-with-KoELECTRA.git`으로 repository 다운로드
 
