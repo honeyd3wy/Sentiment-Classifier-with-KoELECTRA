@@ -17,10 +17,20 @@
 
 > ⚠️ 가상환경에서 실행하는 것을 권장합니다!
 
-1. `model.pt`를 다운로드
-2. `git clone`으로 repository 다운로드
-3. 다운받은 모델 파일을 clone한 경로로 옮기기
-4. `use_classifier_for_local.ipynb` 파일 실행
+1. `$git clone https://github.com/honeyd3wy/Sentiment-Classifier-with-KoELECTRA.git`으로 repository 다운로드
+
+2. `$cd Sentiment-Classifier-with-KoELECTRA/`로 경로 이동
+
+3. `$pip install -r requirements.txt`로 모듈 설치
+
+4. `model.pt`를 다운로드
+
+5. 다운받은 모델 파일을 clone한 경로로 옮기기
+
+6. `use_classifier_for_local.ipynb` 파일 실행 후 사용하시면 됩니다!
+
+    - 긍정 텍스트는 `LABEL_1`, 부정 텍스트는 `LABEL_0`으로 분류
+    - 'score'는 해당 class로 분류될 
 
 
 
