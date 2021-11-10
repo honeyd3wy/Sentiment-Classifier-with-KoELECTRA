@@ -11,8 +11,17 @@
 
   - download model : [`model.pt`](https://docs.google.com/uc?export=download&id=1oJK7P5Jo1_RyTWb4Nd9nJ2vLRSeCl0D1) (430MB)
 
+### Text-mining (with KoNLPy)
+
+- `Mecab()`으로 명사 추출 후 불용어 처리
+
+- `squarify`로 시각화
+
+
 ## Reference
 - [huggingface/transformers](https://github.com/huggingface/transformers)
 - [monologg/KoELECTRA](https://github.com/monologg/KoELECTRA)
 - [감성 분석용 말뭉치](https://github.com/bab2min/corpus/tree/master/sentiment)
 - [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1BtvB)
+- [KoNLPy](https://konlpy.org/ko/latest/)
+- [한국어/영어 불용어(Stopword) 제거하기 (+ 한국어 불용어 리스트)](https://mr-doosun.tistory.com/24)
