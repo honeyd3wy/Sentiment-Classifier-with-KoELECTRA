@@ -11,7 +11,7 @@
 
   - download model : [`model.pt`](https://docs.google.com/uc?export=download&id=1oJK7P5Jo1_RyTWb4Nd9nJ2vLRSeCl0D1) (430MB)
 
-- [Report](https://pypyai.notion.site/Report-Steam-Review-Sentiment-Classification-Analysis-1fbbf8b38a2146d9890982373baec33b) _(작성중)_
+- [Report](https://pypyai.notion.site/Report-Steam-Review-Sentiment-Classification-Analysis-1fbbf8b38a2146d9890982373baec33b)
 
 ## How To Use?
 
