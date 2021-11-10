@@ -50,3 +50,4 @@
 - [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1BtvB)
 - [KoNLPy](https://konlpy.org/ko/latest/)
 - [한국어/영어 불용어(Stopword) 제거하기 (+ 한국어 불용어 리스트)](https://mr-doosun.tistory.com/24)
+- [꼼꼼하고 이해하기 쉬운 ELECTRA 논문 리뷰](https://blog.pingpong.us/electra-review/)
